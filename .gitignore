@@ -1,0 +1,6 @@
+.env
+.wttd
+.idea
+*.sqlite3
+*.pyc
+__pycache__
